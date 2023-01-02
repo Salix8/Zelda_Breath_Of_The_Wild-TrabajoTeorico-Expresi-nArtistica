@@ -1,0 +1,8 @@
+Cuando querais añadir una imagen:
+
+\begin{figure}[h]
+      \centering
+      \includegraphics[scale=2]{nombredelarchivo.extensión}
+      \caption{\small Pie de foto}
+      \label{etiqueta}
+\end{figure}
