@@ -1,6 +1,6 @@
 Cuando querais añadir una imagen:
 
-\begin{figure}[h]
+\begin{figure}[H]
       \centering
       \includegraphics[scale=2]{nombredelarchivo.extensión}
       \caption{\small Pie de foto}
