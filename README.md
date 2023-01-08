@@ -23,3 +23,4 @@ Instalamos la extensión "LaTeX Workshop" desde vscode.
 
 6)
 Creo que debería estar todo listo.
+Ctrl + Alt + B --> Para compilar
